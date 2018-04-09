@@ -12,11 +12,12 @@
   Из графика ясно, что в английском языке все чаще стала употребляться американская версия слова, то есть "favorite". В    американском английском эта тенденция сохранилась, слово "favorite" так же популярно. Правда в более раннее время "favourite" использовалось намного чаще в обоих вариациях языков. 
 
 ЧАСТЬ 2
-Три самых частотных модификатора слова "question"
+
+  Три самых частотных модификатора слова "question"
 
 
-![](https://github.com/elieli99/hw6/blob/master/Screenshot%20(11).png?raw=true)
+  ![](https://github.com/elieli99/hw6/blob/master/Screenshot%20(11).png?raw=true)
+ 
+  Дополнения, с которыми употребляются слова like и love
 
-Дополнения, с которыми употребляются слова like и love
-
-![](https://github.com/elieli99/hw6/blob/master/Screenshot%20(12).png?raw=true)
+  ![](https://github.com/elieli99/hw6/blob/master/Screenshot%20(12).png?raw=true)
