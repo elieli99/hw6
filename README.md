@@ -21,3 +21,10 @@
   Дополнения, с которыми употребляются слова like и love
 
   ![](https://github.com/elieli99/hw6/blob/master/Screenshot%20(12).png?raw=true)
+  
+  Примеры, в которых могут употребляться оба глагола:
+  I like/love coffee.
+  
+  Но нельзя сказать like по отношению к таким дополнениям, как father, wife, hysband, mother и т.д.
+  I love my mother.
+  
