@@ -18,4 +18,5 @@
 ![](https://github.com/elieli99/hw6/blob/master/Screenshot%20(11).png?raw=true)
 
 Дополнения, с которыми употребляются слова like и love
+
 ![](https://github.com/elieli99/hw6/blob/master/Screenshot%20(12).png?raw=true)
