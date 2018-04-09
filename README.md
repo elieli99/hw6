@@ -32,4 +32,6 @@
   
   ![](https://github.com/elieli99/hw6/blob/master/Screenshot%20(13).png?raw=true)
   
+  ![](https://github.com/elieli99/hw6/blob/master/Screenshot%20(14).png?raw=true)
+  
   
