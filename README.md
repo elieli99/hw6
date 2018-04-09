@@ -13,4 +13,6 @@
 
 ЧАСТЬ 2
 Три самых частотных модификатора слова "question"
+
+
 ![](https://github.com/elieli99/hw6/blob/master/Screenshot%20(11).png?raw=true)
