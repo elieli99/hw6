@@ -28,3 +28,8 @@
   Но нельзя сказать like по отношению к таким дополнениям, как father, wife, hysband, mother и т.д.
   I love my mother.
   
+  Частота употребления слова "paintings" возросла как в NBC, так и в N-gram viewer
+  
+  ![](https://github.com/elieli99/hw6/blob/master/Screenshot%20(13).png?raw=true)
+  
+  
